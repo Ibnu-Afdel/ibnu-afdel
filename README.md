@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is  Abubeker Afdel, passionate website developer from Ethiopia</p>
+<h4 align="left">My name is  Abubeker Afdel, passionate website developer from Ethiopia</h4>
 
 ###
 
