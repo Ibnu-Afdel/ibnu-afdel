@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">My name is  Abubeker Afdel, passionate website developer from Ethiopia</h4>
+<h4 align="left">Hey,I am Abubeker Afdel, passionate software developer from Ethiopia</h4>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning Laravel, React<br><br>    👨‍💻 All of my projects are available at https://ibnuafdel.com<br><br>    📝 I regularly write articles on https://t.me/IbnuAfdelDevDiary<br><br>    📫 How to reach me ibnuafde@gmail.com</p>
+<p align="left">🌱 I’m currently learning Go, React<br><br>    👨‍💻 All of my projects are available at https://ibnuafdel.com<br><br>    📝 I regularly write articles on https://t.me/IbnuAfdelLog<br><br>    📫 How to reach me ibnuafde@gmail.com</p>
 
 ###
 
