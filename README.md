@@ -1,45 +1,23 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Abubeker Afdel
 
-###
+Software developer from Ethiopia, focused on backend development and building practical software.
 
-<h4 align="left">Hey, I am Abubeker Afdel, passionate software developer from Ethiopia</h4>
+## About Me
 
-###
+- Backend developer working primarily with Laravel and PHP.
+- Currently learning Rust and documenting the journey on [YouTube](https://www.youtube.com/@Ibnuafdel).
+- Learn more about me: [meet.et/ibnuafdel](https://meet.et/ibnuafdel).
+- I share articles and notes on [Telegram](https://t.me/IbnuAfdelLog).
+- Email: [ibnuafde@gmail.com](mailto:ibnuafde@gmail.com).
+- Time zone: East Africa Time (EAT, UTC+3).
 
-<h2 align="left">About me</h2>
+## Technologies
 
-###
+**Backend:** Laravel, PHP, Python, FastAPI, Django, Node.js
 
-<p align="left"> Learning Rust<br><br>    -> https://meet.et/ibnuafdel <br><br>    -> I regularly write articles on https://t.me/IbnuAfdelLog<br><br>    📫 How to reach me ibnuafde@gmail.com</p>
+**Frontend:** JavaScript, TypeScript, React, Next.js, Tailwind CSS
 
-###
+**Languages I'm exploring:** Rust, Go
 
-<h2 align="left">I code with</h2>
+**Database & Tools:** PostgreSQL, Docker, Git
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
-
-###
