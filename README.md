@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning Go, React<br><br>    👨‍💻 All of my projects are available at https://ibnuafdel.com<br><br>    📝 I regularly write articles on https://t.me/IbnuAfdelLog<br><br>    📫 How to reach me ibnuafde@gmail.com</p>
+<p align="left"> Learning Rust<br><br>    -> https://meet.et/ibnuafdel <br><br>    -> I regularly write articles on https://t.me/IbnuAfdelLog<br><br>    📫 How to reach me ibnuafde@gmail.com</p>
 
 ###
 
